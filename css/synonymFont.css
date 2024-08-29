@@ -1,0 +1,10 @@
+
+@font-face {
+  font-family: 'Synonym-Medium';
+  src: url('../fonts/Synonym-Medium.woff2') format('woff2'),
+       url('../fonts/Synonym-Medium.woff') format('woff'),
+       url('../fonts/Synonym-Medium.ttf') format('truetype');
+  font-weight: 400;
+  font-display: swap;
+  font-style: normal;
+}
